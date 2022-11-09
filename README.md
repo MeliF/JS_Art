@@ -1,7 +1,7 @@
 # JS_Art
 Playing around with JS to create art
 
-![This is an image](/assets/squares.gif)
+![This is an image](/assets/Assets/squares.gif)
 
 
 Art produced with JS and [Canvas Sketch]( https://www.npmjs.com/package/canvas-sketch.)
